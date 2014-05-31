@@ -1,0 +1,11 @@
+Creating new repo
+1. Go to your account at https://github.com
+2. Go to Repositories tab and press New
+3. Create public repo, because there are some limitations to have a  private repo, and fill all inputs.
+4. Create repo with readme
+5. Go to dest folder on you local machine and type
+git clone https://github.com/github_user_name/repo_name
+6. The make changes and run
+git push origin master
+It will ask your login and password
+7. Enjoy!
